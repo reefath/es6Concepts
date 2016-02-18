@@ -93,4 +93,4 @@ function constInLoops() {
 
 }
 
-console.log(constInLoops());
+//console.log(constInLoops());
